@@ -61,7 +61,7 @@ The following commercial platforms handle global IP reputation, SPF/DKIM/DMARC a
 
 ## 🔓 Open-Source GitHub Projects
 
-Self-hosted email engines give developers full data sovereignty and zero per-email fees. Below are top open-source email platforms sorted by **GitHub Star Count (Descending)** within each category.
+Self-hosted email engines give developers full data sovereignty and zero per-email fees. Below are top open-source email platforms sorted by **GitHub Stars_Count (Descending)** within each category.
 
 ### 📬 Newsletter & Mailing List Management
 
