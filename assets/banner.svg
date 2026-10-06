@@ -21,8 +21,8 @@
     </pattern>
 
     <style>
-      .title { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 800; font-size: 42px; fill: url(#textGrad); }
-      .subtitle { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 400; font-size: 20px; fill: #94a3b8; }
+      .title { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 800; font-size: 38px; fill: url(#textGrad); }
+      .subtitle { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 400; font-size: 19px; fill: #94a3b8; }
       .badge-text { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 600; font-size: 14px; fill: #e2e8f0; }
 
       @keyframes pulse {
@@ -60,17 +60,17 @@
   <!-- Background Animated Pill Cards (Positioned far right, behind text z-index safe zone) -->
   <g class="g-float" transform="translate(820, 70)">
     <rect width="280" height="60" rx="12" fill="#1e293b" stroke="#475569" stroke-width="1" opacity="0.85"/>
-    <text x="20" y="36" class="badge-text">⚡ High-Speed SMTP & REST APIs</text>
+    <text x="20" y="36" class="badge-text">&#9889; High-Speed SMTP &amp; REST APIs</text>
   </g>
 
   <g class="g-float" transform="translate(860, 150)" style="animation-delay: -1.5s;">
     <rect width="260" height="60" rx="12" fill="#1e293b" stroke="#475569" stroke-width="1" opacity="0.85"/>
-    <text x="20" y="36" class="badge-text">🔒 Open-Source & Self-Hosted</text>
+    <text x="20" y="36" class="badge-text">&#128274; Open-Source &amp; Self-Hosted</text>
   </g>
 
   <g class="g-float" transform="translate(800, 220)" style="animation-delay: -3s;">
     <rect width="270" height="50" rx="12" fill="#1e293b" stroke="#475569" stroke-width="1" opacity="0.85"/>
-    <text x="20" y="30" class="badge-text">📊 Deliverability & Analytics</text>
+    <text x="20" y="30" class="badge-text">&#128202; Deliverability &amp; Analytics</text>
   </g>
 
   <!-- Foreground Content (Guaranteed crisp and unobstructed) -->
@@ -86,7 +86,7 @@
 
     <!-- Subtitle -->
     <text x="0" y="45" class="subtitle">A curated directory of enterprise SaaS email APIs &amp; top open-source email engines</text>
-    <text x="0" y="75" class="subtitle" style="font-size: 16px; fill: #64748b;">Market intelligence • Revenue &amp; Valuation insights • Star-ranked Open Source stacks</text>
+    <text x="0" y="75" class="subtitle" style="font-size: 16px; fill: #64748b;">Market intelligence &#8226; Revenue &amp; Valuation insights &#8226; Star-ranked Open Source stacks</text>
   </g>
 
 </svg>
